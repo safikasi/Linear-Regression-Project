@@ -50,8 +50,7 @@ from sklearn.linear_model import LinearRegression
 
 ## Model Performance
 
-print(f"R² Score: {0.92:.2f}")  # 92% variance explained
-print(f"RMSE: {8.93:.2f}")       # ±$8.93 prediction error
+92% variance explained and ±$8.93 prediction error
 
 # 🚀 Business Recommendations
 
