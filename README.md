@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 **Project Overview**  
+# 📌 **Project Overview**  
 **Business Challenge:**  
 An NYC fashion e-commerce company needed to determine whether to prioritize their **mobile app** or **website** development to maximize revenue.
 
@@ -21,10 +21,10 @@ An NYC fashion e-commerce company needed to determine whether to prioritize thei
 
 ---
 
-## 🔎 **Key Findings**  
-### 📱 Mobile App Insights  
+# 🔎 **Key Findings**  
+## 📱 Mobile App Insights  
 
-# Coefficient Impact
+## Coefficient Impact
 Time on App: +$12.50/year per minute
 Strongest driver of customer spending
 
@@ -34,43 +34,45 @@ One-click checkout
 
 Personalized recommendations
 
-### 🖥 Website Insights
+## 🖥 Website Insights
 
-# Coefficient Impact 
+## Coefficient Impact 
 Time on Website: +$8.20/year per minute
 Maintain current functionality
 
 Focus only on critical bug fixes
 
-### ⚙️ Technical Implementation
+# ⚙️ Technical Implementation
 
-# Core Libraries
+## Core Libraries
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
-# Model Performance
+## Model Performance
 print(f"R² Score: {0.92:.2f}")  # 92% variance explained
+---
 print(f"RMSE: {8.93:.2f}")       # ±$8.93 prediction error
 
-## 🚀 Business Recommendations
+# 🚀 Business Recommendations
 
-# Prioritize Mobile App
+## Prioritize Mobile App
 
 Implement AI-powered recommendations
 
 Streamline checkout process
 
-# Website Maintenance
+## Website Maintenance
 
 Stability over new features
 
 Mobile-first responsive design
 
-# Next Steps
+## Next Steps
 
 A/B test proposed app changes
 
 Analyze high-value customer segments
 
-## 📞 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/safwan-kasi-2b5358292/"> <img src="https://img.shields.io/badge/-Safwan_Khan_Kasi-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/safikasi"> <img src="https://img.shields.io/badge/-safikasi-black?style=flat&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://github.com/safikasi/Linear-Regression-Project.git"> <img
+# 📞 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/safwan-kasi-2b5358292/"> <img src="https://img.shields.io/badge/-Safwan_Khan_Kasi-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> 
+<a href="https://github.com/safikasi"> <img src="https://img.shields.io/badge/-safikasi-black?style=flat&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://github.com/safikasi/Linear-Regression-Project.git"> <img
