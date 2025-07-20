@@ -73,5 +73,4 @@ A/B test proposed app changes
 Analyze high-value customer segments
 
 ## 📞 Connect With Me
-https://img.shields.io/badge/Connect%2520on%2520LinkedIn-Safwan_Khan_Kasi-blue?logo=linkedin
-https://img.shields.io/badge/View%2520on%2520GitHub-Repo-black?logo=github
+<div align="center"> <a href="https://www.linkedin.com/in/safwan-kasi-2b5358292/"> <img src="https://img.shields.io/badge/-Safwan_Khan_Kasi-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/safikasi"> <img src="https://img.shields.io/badge/-safikasi-black?style=flat&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://github.com/safikasi/Linear-Regression-Project.git"> <img
